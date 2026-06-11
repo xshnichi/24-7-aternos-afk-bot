@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "avyakta.play.hosting",
+    "port": 41357,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
